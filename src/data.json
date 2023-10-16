@@ -1,0 +1,10 @@
+[
+  { "user": 500, "guest": 400 },
+  { "user": 350, "guest": 450 },
+  { "user": 200, "guest": 300 },
+  { "user": 400, "guest": 300 },
+  { "user": 500, "guest": 400 },
+  { "user": 150, "guest": 250 },
+  { "user": 400, "guest": 500 },
+  { "user": 200, "guest": 300 }
+]
